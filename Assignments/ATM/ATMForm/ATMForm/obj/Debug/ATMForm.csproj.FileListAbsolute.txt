@@ -1,0 +1,10 @@
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\bin\Debug\ATMForm.exe.config
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\bin\Debug\ATMForm.exe
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\bin\Debug\ATMForm.pdb
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\obj\Debug\ATMForm.csprojAssemblyReference.cache
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\obj\Debug\ATMForm.Form1.resources
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\obj\Debug\ATMForm.Properties.Resources.resources
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\obj\Debug\ATMForm.csproj.GenerateResource.cache
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\obj\Debug\ATMForm.csproj.CoreCompileInputs.cache
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\obj\Debug\ATMForm.exe
+U:\AC22005\Assignments\ATM\ATMForm\ATMForm\obj\Debug\ATMForm.pdb
